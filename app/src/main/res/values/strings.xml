@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">bottomnavigation</string>
+    <string name="name">نام خودرا وارد کنید\n</string>
+    <string name="pass">رمزخودرا وارد کنید\n</string>
+    <string name="login">ورود</string>
+    <string name="register">ثبت نام</string>
+   <string name="edit">ویرایش</string>
+    <string name="delete">حذف</string>
+    <string name="home">خانه</string>
+    <string name="Account">حساب کاربری</string>
+</resources>
